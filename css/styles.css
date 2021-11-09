@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Bebas', fantasy;
+  font-family: 'Bebas', sans-serif, fantasy;
   /* background-color: #B5EAEA; */
 }
 
@@ -84,14 +84,14 @@ a:hover {
 
 .top_cloud {
   position: absolute;
-  top: 100px;
-  right: 400px;
+  top: 70px;
+  right: 200px;
 }
 
 .bottom_cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 100px;
+  bottom: 350px;
 }
 
 .profile-picture {
