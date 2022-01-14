@@ -94,6 +94,11 @@ a:hover {
   bottom: 350px;
 }
 
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
 .profile-picture {
   height: 200px;
   width: 200px;
